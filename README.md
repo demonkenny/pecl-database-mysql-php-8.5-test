@@ -4,6 +4,9 @@
 
 This extension is deprecated and unmaintained.
 
+The fix for PHP 8.5 was made with Ai, if you do not like AI fixes, you do not
+have to download this if you don't want to.
+
 ## Description
 
 This extension provides the mysql family of functions that were provided with
